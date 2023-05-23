@@ -49,11 +49,11 @@
             <div class="quote_btn-container  d-flex ml-5 pl-5">
               <a class="mt-2" href="">
                 <img src="images/call.png" alt="">
-                CALL : 505.555.5555
+                CALL : 505-309-0790 <h4>Se Habla Español</h4>
               </a>
               
                 <span class="text-light m-2 ml-5 pl-5">
-                  info@TsHomeBuyer.com
+                  info@tshomebuyer.com
                 </span>
                 
               
@@ -176,7 +176,7 @@
             </div>
             <div class="detail-box">
               <p>
-                505.555.5555
+              505-309-0790 <h6>Se Habla Español</h6>
               </p>
             </div>
           </div>
@@ -188,7 +188,7 @@
             </div>
             <div class="detail-box">
               <p>
-                info@TsHomeBuyer.com
+                info@tshomebuyer.com
               </p>
             </div>
           </div>
