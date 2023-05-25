@@ -9,9 +9,8 @@
   <!-- Mobile Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <!-- Site Metas -->
-  <meta name="keywords" content="" />
-  <meta name="description" content="" />
-  <meta name="author" content="" />
+  <meta name="keywords" content="Cash for Homes, As Is, Problem Homes, Home Buyer" />
+  <meta name="description" content="We Buy Problem Homes" />
 
   <title>Turquoise Solutions | Home Buyer</title>
   <link rel="icon" type="image/x-icon" href="/images/favicon.png">
@@ -38,13 +37,7 @@
     <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
-          <img class="img-fluid" src="images/tsLogo.png" alt="">
-          <!-- <a class="navbar-brand" href="index.html">
-            <img src="images/tsLogo.png" alt="">
-            <span>
-               Turquoise Solutions
-            </span>
-          </a> -->
+          <img class="img-fluid" src="images/tsLogo.png" alt="Turquoise Solutions Logo">
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="quote_btn-container  d-flex ml-5 pl-5">
               <a class="mt-2" href="tel:505-309-0790">
@@ -53,7 +46,7 @@
               </a>
               
                 <span class="text-light m-2 ml-5 pl-5">
-                  info@tshomebuyer.com
+                  <a href="mailto: info@tshomebuyer.com">info@tshomebuyer.com</a>
                 </span>
                 
               
@@ -84,13 +77,58 @@
             Problem <br>
             Homes
           </h1>
-          <p>
-            • CASH • DEATH <br>
-            • AS-IS (NO REPAIRS) • DIVORCE <br>
-            • ANY CONDITION • RELOCATION <br>
-            • QUICK & EASY • INHERITANCE<br>
-            • HASSLE FREE • TAX LIENS <br>
-          </p>
+
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-6">
+                      • CASH
+                    </div>
+                    <div class="col-6">
+                      • DEATH
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-6">
+                      • AS-IS (NO REPAIRS)
+                    </div>
+                    <div class="col-6">
+                      • DIVORCE
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-6">
+                      • ANY CONDITION
+                    </div>
+                    <div class="col-6">
+                      • RELOCATION
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-6">
+                      • QUICK & EASY
+                    </div>
+                    <div class="col-6">
+                      • INHERITANCE
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-6">
+                      • HASSLE FREE
+                    </div>
+                    <div class="col-6">
+                      • TAX LIENS
+                    </div>
+                </div>
+            </div>
+
           <div>
             <a href="tel:505-309-0790" class="slider-link">
               CALL US NOW
@@ -101,13 +139,13 @@
           <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="images/abq1.jpg" alt="">
+                <img src="images/abq1.jpg" alt="Downtown Albuquerque">
               </div>
               <div class="carousel-item">
-                <img src="images/abq2.jpg" alt="">
+                <img src="images/abq2.jpg" alt="Downtown Albuquerque">
               </div>
               <div class="carousel-item">
-                <img src="images/abq3.jpg" alt="">
+                <img src="images/abq3.jpg" alt="Downtown Albuquerque">
               </div>
             </div>
 
@@ -117,9 +155,8 @@
       </div>
 
     </section>
-    <!-- end slider section -->
-  </div>
 
+  <!-- end slider section -->
 
   <!-- contact section -->
 
@@ -209,34 +246,33 @@
     </div>
   </section>
 
-
   <!-- end contact section -->
 
   <!-- info section -->
   <section class="info_section layout_padding">
     <div class="container">
-      <div class="info_social">
+      <!-- <div class="info_social">
         <div>
           <a href="">
-            <!-- <img src="images/fb.png" alt=""> -->
+            <img src="images/fb.png" alt="">
           </a>
         </div>
         <div>
           <a href="">
-            <!-- <img src="images/twitter.png" alt=""> -->
+            <img src="images/twitter.png" alt="">
           </a>
         </div>
         <div>
           <a href="">
-            <!-- <img src="images/linkedin.png" alt=""> -->
+            <img src="images/linkedin.png" alt="">
           </a>
         </div>
         <div>
           <a href="">
-            <!-- <img src="images/insta.png" alt=""> -->
+            <img src="images/insta.png" alt="">
           </a>
         </div>
-      </div>
+      </div> -->
       <div>
         <p>
           If your home is currently listed, this is not a solicitation for your listing
