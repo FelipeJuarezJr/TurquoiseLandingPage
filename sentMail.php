@@ -6,7 +6,7 @@ if (isset($_POST['submit'])) {
     // Getting customer data
     $name = $_POST['name']; // Getting customer name
     $email = $_POST['email']; // Getting customer email
-    $address = $_POST['address']; // Getting customer address
+    // $address = $_POST['address']; // Getting customer address
     $phone = $_POST['phone']; // Getting customer phone number
     $message = $_POST['message']; // Getting customer message
     $subject = "New Customer Contact Info!"; //$_POST['subject']; // Getting subject line from client
@@ -16,10 +16,8 @@ if (isset($_POST['submit'])) {
     $message = "Client Name: " . $name . "\n"
     . "Email: " . $email . "\n"
     . "Phone Number: " . $phone . "\n"
-    . "Address: " . $address . "\n"
-    . "Message: " . $message . "\n\n"
-    ;
-    // . "Client Message: " . "\n" . $_POST['message'];
+    // . "Address: " . $address . "\n"
+    . "Message: " . $message . "\n\n";
 
     // Message for client confirmation
     $message2 = "Dear " . $name . "," . "\n"
