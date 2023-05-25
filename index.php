@@ -80,50 +80,50 @@
 
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-6">
+                    <div class="text-left col-6">
                       • CASH
                     </div>
-                    <div class="col-6">
+                    <div class="text-left col-6">
                       • DEATH
                     </div>
                 </div>
             </div>
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-6">
+                    <div class="text-left col-6">
                       • AS-IS (NO REPAIRS)
                     </div>
-                    <div class="col-6">
+                    <div class="text-left col-6">
                       • DIVORCE
                     </div>
                 </div>
             </div>
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-6">
+                    <div class="text-left col-6">
                       • ANY CONDITION
                     </div>
-                    <div class="col-6">
+                    <div class="text-left col-6">
                       • RELOCATION
                     </div>
                 </div>
             </div>
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-6">
+                    <div class="text-left col-6">
                       • QUICK & EASY
                     </div>
-                    <div class="col-6">
+                    <div class="text-left col-6">
                       • INHERITANCE
                     </div>
                 </div>
             </div>
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-6">
+                    <div class="text-left col-6">
                       • HASSLE FREE
                     </div>
-                    <div class="col-6">
+                    <div class="text-left col-6">
                       • TAX LIENS
                     </div>
                 </div>
@@ -188,8 +188,8 @@
                   <div>
                     <input type="tel" name="phone" required="required" placeholder="Phone Number">
                   </div>
-                  <div class="">
-                    <input type="text" name="message" placeholder="Message (Optional)" class="message_input">
+                  <div>
+                    <input type="text" name="message" placeholder="Message (Optional)">
                   </div>
                   <div class="turqBtn mt-5">
                     <button type="submit" name="submit" data-submit="...Sending">
