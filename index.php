@@ -47,8 +47,8 @@
           </a> -->
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="quote_btn-container  d-flex ml-5 pl-5">
-              <a class="mt-2" href="">
-                <img src="images/call.png" alt="">
+              <a class="mt-2" href="tel:505-309-0790">
+                <img src="images/call.png" alt="505-309-0790">
                 CALL : 505-309-0790 <h4>Se Habla Español</h4>
               </a>
               
@@ -92,7 +92,7 @@
             • HASSLE FREE • TAX LIENS <br>
           </p>
           <div>
-            <a href="tel:505-555-5555" class="slider-link">
+            <a href="tel:505-309-0790" class="slider-link">
               CALL US NOW
             </a>
           </div>
@@ -145,14 +145,14 @@
                   <div>
                     <input type="email" name="email" required="required" placeholder="Email">
                   </div>
-                  <div>
+                  <!-- <div>
                     <input type="text" name="address" required="required" placeholder="Address">
-                  </div>
+                  </div> -->
                   <div>
                     <input type="tel" name="phone" required="required" placeholder="Phone Number">
                   </div>
                   <div class="">
-                    <input type="text" name="message" required="required" placeholder="Message" class="message_input">
+                    <input type="text" name="message" placeholder="Message (Optional)" class="message_input">
                   </div>
                   <div class="turqBtn mt-5">
                     <button type="submit" name="submit" data-submit="...Sending">
@@ -169,7 +169,7 @@
       </div>
       <div class="contact_items">
 
-        <a href="">
+        <a href="tel:505-309-0790">
           <div class="item ">
             <div class="img-box box-2">
 
@@ -181,7 +181,7 @@
             </div>
           </div>
         </a>
-        <a href="">
+        <a href="mailto: info@tsbomebuyer.com">
           <div class="item ">
             <div class="img-box box-3">
 
@@ -218,22 +218,22 @@
       <div class="info_social">
         <div>
           <a href="">
-            <img src="images/fb.png" alt="">
+            <!-- <img src="images/fb.png" alt=""> -->
           </a>
         </div>
         <div>
           <a href="">
-            <img src="images/twitter.png" alt="">
+            <!-- <img src="images/twitter.png" alt=""> -->
           </a>
         </div>
         <div>
           <a href="">
-            <img src="images/linkedin.png" alt="">
+            <!-- <img src="images/linkedin.png" alt=""> -->
           </a>
         </div>
         <div>
           <a href="">
-            <img src="images/insta.png" alt="">
+            <!-- <img src="images/insta.png" alt=""> -->
           </a>
         </div>
       </div>
